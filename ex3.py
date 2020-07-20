@@ -1,5 +1,6 @@
 def get_number_from_user():
    number_to_choose = int(input('enter a number'))
+   return number_to_choose
 
 def even_or_odd(given_number):
 
